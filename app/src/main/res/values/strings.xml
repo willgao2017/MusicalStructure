@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="activity2_name">Payment</string>
+    <string name="activity3_name">Song details</string>
+</resources>

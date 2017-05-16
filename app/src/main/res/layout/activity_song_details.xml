@@ -18,6 +18,12 @@
             android:textSize="40dp" />
 
         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The purpose of this activity is to provide details of the chosen song."
+            style="@style/Explanation"/>
+
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             style="@style/DetailsText"

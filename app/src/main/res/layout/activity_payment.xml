@@ -18,9 +18,15 @@
             android:textSize="40dp" />
 
         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The purpose of this activity is to provide a payment interface.\nStripe library and Android Pay API may be needed here to make the payment happen."
+            style="@style/Explanation"/>
+
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="(1) Pay $1 USD, and you will get the high quality version of this song.\n(2) This App supports credit card / apple pay / bitcoin."
+            android:text="(1) Pay $1 USD, and you will get the high quality version of this song.\n(2) This App supports wechat pay /alipay."
             style="@style/PayText"/>
 
     </LinearLayout>

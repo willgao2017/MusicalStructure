@@ -17,6 +17,12 @@
             android:text="Library"
             android:textSize="40sp" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The purpose of this activity is to show the songs in the music library.\nMediaPlayer Class and ExoPlayer API are needed here to play the music."
+            style="@style/Explanation"/>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
